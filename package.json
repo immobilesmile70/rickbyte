@@ -1,0 +1,24 @@
+{
+  "name": "rickbyte",
+  "version": "1.0.0",
+  "description": "A simple portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immobilesmile70/rickbyte.git"
+  },
+  "author": "RickByte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immobilesmile70/rickbyte/issues"
+  },
+  "homepage": "https://github.com/immobilesmile70/rickbyte#readme",
+  "dependencies": {
+    "terser": "^5.43.1",
+    "three": "^0.179.1",
+    "vite": "^7.1.1"
+  }
+}
